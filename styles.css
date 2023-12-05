@@ -23,7 +23,7 @@ body {
 
 .catalogo {
     text-align: center;
-    background-image: url('img/textura-de-papel-artesanal-bege-fundo-amassado-superficie-branca-vintage_113767-3490.avif');
+    background-image: url('fundo.jpg');
     background-size: cover;
     background-position: center;
     padding: 10px 0; /* Espaçamento para as imagens do catálogo */
