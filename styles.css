@@ -11,9 +11,10 @@ body {
 .cabecalho-centralizado {
     text-align: center;
     padding: 10px 0;
-    background-color: white; /* Cor de fundo do cabeçalho */
+    background-image: url('fundo.jpg');
+    background-size: cover;
     max-width: 100%;
-}
+}   
 
 .logo img {
     max-width: 600px; /* Ajuste o tamanho conforme necessário */
