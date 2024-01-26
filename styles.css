@@ -28,7 +28,7 @@ body {
     background-size: cover;
     background-position: center;
     padding: 10px 0; /* Espaçamento para as imagens do catálogo */
-    color: rgb(228, 255, 234); /* Cor do texto */ #e4ffea
+    color: rgb(228, 255, 234); /* Cor do texto */ 
 }
 
 .imagem-catalogo {
