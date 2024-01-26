@@ -5,6 +5,7 @@ body {
     font-weight: bold;
     font-size: 38px;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Adicionando sombra nas letras */
+    pointer-events: none;
     
 }
 
@@ -14,12 +15,14 @@ body {
     background-image: url('fundo.jpg');
     background-size: cover;
     max-width: 100%;
+    pointer-events: none;
 }   
 
 .logo img {
     max-width: 600px; /* Ajuste o tamanho conforme necessário */
     display: block;
     margin: 0 auto;
+    pointer-events: none;
 }
 
 .catalogo {
@@ -35,6 +38,7 @@ body {
     background-color: rgba(71, 66, 66, 0.5); /* Cor de fundo das imagens */
     padding: 0px;
     max-width: 100%; /* Ajuste o tamanho conforme necessário */
+    pointer-events: none;
 }
 
 .imagens {
@@ -42,8 +46,10 @@ body {
     flex-direction: column; /* As imagens ficarão uma embaixo da outra */
     align-items: center;
     gap: 10px;
+    pointer-events: none;
 }
 
 .imagens img {
     max-width: 650px; /* Ajuste o tamanho conforme necessário */
+    pointer-events: none;
 }
