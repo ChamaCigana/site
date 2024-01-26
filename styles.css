@@ -24,11 +24,11 @@ body {
 
 .catalogo {
     text-align: center;
-    background-image: url('fundo.jpg');
+    background-image: url('fundosite.jpg');
     background-size: cover;
     background-position: center;
     padding: 10px 0; /* Espaçamento para as imagens do catálogo */
-    color: white; /* Cor do texto */
+    color: rgb(228, 255, 234); /* Cor do texto */ #e4ffea
 }
 
 .imagem-catalogo {
